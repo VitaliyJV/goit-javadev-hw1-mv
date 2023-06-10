@@ -12,4 +12,5 @@ public class Convert {
         String maxP1 = gson.toJson(p1);
         System.out.println(maxP1);
     }
+    
 }
